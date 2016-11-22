@@ -1,0 +1,7 @@
+
+
+# Disable directory listing
+# Options -Indexes
+
+# ErrorDocument 403 /not-found.html
+# ErrorDocument 404 /not-found.html
